@@ -1,0 +1,16 @@
+.card-list{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 20px;
+}
+
+.ui.card{
+    width: 400px;
+    height: 100%;
+    position: relative;
+}
+
+.ui.card:first-child {
+ margin-top: 15px;
+}
