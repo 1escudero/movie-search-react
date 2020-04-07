@@ -16,7 +16,8 @@ Just download the project, request your API key on the TMDb's website: https://w
 
 ## VIDEO DEMO
 
-![Video DEMO](public/demo/project_demo.gif)
+[LINK TO YOUTUBE!](https://www.youtube.com/watch?v=hbkrLfRHlRg&feature=youtu.be)
+
 
 ## Screenshots
 
