@@ -23,9 +23,9 @@ Just download the project, request your API key on the TMDb's website: https://w
 
 ![Image 2](https://i.ibb.co/gwGLg5v/image2.png)
 
-![Image 3](https://i.ibb.co/9wqNGhh/image5.png)
+![Image 3](https://i.ibb.co/TmD3FBM/image3.png)
 
-![Image 4](https://i.ibb.co/TmD3FBM/image3.png)
+![Image 4](https://i.ibb.co/9wqNGhh/image5.png)
 
 ![Image 5](https://i.ibb.co/Ms0w70P/image4.png)
 
